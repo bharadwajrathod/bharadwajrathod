@@ -2,23 +2,16 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 **I am a Computer Science student from IIIT Guwahati.**
-- 👋 I’m @ms1835
+- 👋 I’m @Bharadwajrathod
 - 👀 I’m interested in open source projects.
 - 🌱 I’m currently learning React and Node.js.
 - 💞️ I’m looking to collaborate on projects based on web development.
 - 📫 How to reach me: 
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/mayank
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/megavath-bharadwaj-3380551ab/).
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on webdeveloping 
-- 🌱 I’m currently learning Reactjs
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with 
-- 💬 Ask me about webdeveloping (Html,css,javascript,Nodejs,reactjs),
-- 📫 How to reach me: Bharadwajrathod24@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: “Success is getting what you want, happiness is wanting what you get”.
+- ⚡ Fun fact:  LIVING THE MOMENT😎.
 -->
 
 ## 🧰 Languages and Tools:
