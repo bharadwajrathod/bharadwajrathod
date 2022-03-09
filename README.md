@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning React and Node.js.
 - 💞️ I’m looking to collaborate on projects based on web development.
 - 📫 How to reach me: 
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/megavath-bharadwaj-3380551ab/) ;[Gmail](bharadwajrathod24@gmail.com).
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/megavath-bharadwaj-3380551ab/) ;
 
 
 - 😄 Pronouns: “Success is getting what you want, happiness is wanting what you get”.
