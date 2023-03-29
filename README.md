@@ -44,7 +44,7 @@
 ### GitHub Stats
  <p align="center">
   <a href = "https://github.com/bharadwajrathod">
-<img src="https://github-readme-stats.vercel.app/api?username=bharadwajrathod&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
+<img src="https://github-readme-stats.vercel.app/api?username=bharadwajrathod&show_icons=true&theme=tokyonight">
   </a>
  </p>
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bharadwajrathod&show_icons=true&theme=tokyonight)
