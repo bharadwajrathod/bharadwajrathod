@@ -24,11 +24,11 @@
 - 📫 How to reach me: 
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;email via megavath.rathod@iiitg.ac.in or ping me on [LinkedIn](https://www.linkedin.com/in/megavath-bharadwaj-3380551ab/) to reach me.
 
-
-- 😄 Pronouns: “𝑰 𝑵𝒆𝒗𝒆𝒓 𝑫𝒓𝒆𝒂𝒎 𝒇𝒐𝒓 𝑺𝑼𝑪𝑪𝑬𝑺𝑺 , 𝑰 𝑾𝑶𝑹𝑲 𝒇𝒐𝒓 𝒊𝒕!! ❤ ”.
-- ⚡ Fun fact:  LIVING THE MOMENT😎.
+- 😄 Pronouns: “I Never Dream for SUCCESS , I WORK for it!!”.
+  
+  
 ## 🧰 Languages and Tools:
-<p align="center">
+  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="CPP" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
