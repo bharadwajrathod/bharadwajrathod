@@ -12,7 +12,7 @@
 
 <em> Want to know more about me? [Click here](https://www.linkedin.com/in/megavath-bharadwaj-3380551ab/) </em>
 <em>
-
+**Talking about Personal Stuffs:**
 **I am a Computer Science Final Year Student from IIIT Guwahati.**
 - 👋 I’m @Bharadwajrathod
 - 👀 I’m interested in open source projects.
