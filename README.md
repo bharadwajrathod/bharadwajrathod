@@ -15,7 +15,7 @@
   
 **Talking about Personal Stuffs:**
 - 👨🏽‍💻 I’m Currently working as Research Intern at [Jio](https://www.jio.com/)
-- 💼 I’m Currently Pursuing my Bachelor's degree in Computer Science at Indian Institute Of Information Technology (https://iiitg.ac.in/)
+- 💼 I’m Currently Pursuing my Bachelor's degree in Computer Science at [Indian Institute Of Information Technology] (https://iiitg.ac.in/).
 - 🤔 My interests are with Web App Development 🖥️, Data Science 📊, Cricket 🏏.
 - 👀 I’m interested in open source projects.
 - 🌱 I’m currently learning NLP & DL .
