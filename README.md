@@ -1,6 +1,6 @@
 
 
-## Hi there!, I'm [Kishan](https://www.linkedin.com/in/megavath-bharadwaj-3380551ab/)!! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
+## Hi there!, I'm [BHARADWAJ RATHOD](https://www.linkedin.com/in/megavath-bharadwaj-3380551ab/)!! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
 
 <p>
   <em>
