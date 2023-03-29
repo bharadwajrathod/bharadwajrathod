@@ -13,13 +13,16 @@
 <em> Want to know more about me? [Click here](https://www.linkedin.com/in/megavath-bharadwaj-3380551ab/) </em>
 <em>
   
-**Talking about Personal Stuffs: I am a Computer Science Final Year Student from IIIT Guwahati.**
-- 👋 I’m @Bharadwajrathod
+**Talking about Personal Stuffs:**
+- 👨🏽‍💻 I’m Currently working as Research Intern at [Jio](https://www.jio.com/)
+- 💼 I’m Currently Pursuing my Bachelor's degree in Computer Science at Indian Institute Of Information Technology (https://iiitg.ac.in/)
+- 🤔 My interests are with Web App Development 🖥️, Data Science 📊, Cricket 🏏.
 - 👀 I’m interested in open source projects.
-- 🌱 I’m currently learning NLP , ML and .
+- 🌱 I’m currently learning NLP & DL .
 - ✌  I’m looking to collaborate on projects based on web development.
+- 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: 
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/megavath-bharadwaj-3380551ab/) .
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;email via megavath.rathod@iiitg.ac.in or ping me on [LinkedIn](https://www.linkedin.com/in/megavath-bharadwaj-3380551ab/) to reach me.
 
 
 - 😄 Pronouns: “Success is getting what you want, happiness is wanting what you get”.
