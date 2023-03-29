@@ -25,7 +25,7 @@
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;email via megavath.rathod@iiitg.ac.in or ping me on [LinkedIn](https://www.linkedin.com/in/megavath-bharadwaj-3380551ab/) to reach me.
 
 
-- 😄 Pronouns: “Success is getting what you want, happiness is wanting what you get”.
+- 😄 Pronouns: “𝑰 𝑵𝒆𝒗𝒆𝒓 𝑫𝒓𝒆𝒂𝒎 𝒇𝒐𝒓 𝑺𝑼𝑪𝑪𝑬𝑺𝑺 , 𝑰 𝑾𝑶𝑹𝑲 𝒇𝒐𝒓 𝒊𝒕!! ❤ ”.
 - ⚡ Fun fact:  LIVING THE MOMENT😎.
 ## 🧰 Languages and Tools:
 <p align="center">
