@@ -42,4 +42,14 @@
 
 
 
+
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bharadwajrathod&show_icons=true&theme=tokyonight)
+ 
+ 
+ ### Top Languages
+
+<p align="center">
+<a href = "https://github.com/kishan0725">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishan0725&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
+</a>
+</p>
