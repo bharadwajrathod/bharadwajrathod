@@ -1,10 +1,22 @@
-### Hi there 👋
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-**I am a Computer Science student from IIIT Guwahati.**
+
+## Hi there!, I'm [Kishan](https://www.linkedin.com/in/megavath-bharadwaj-3380551ab/)!! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
+
+<p>
+  <em>
+    A <b>Research Intern</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Hyderabad, India.
+  </em>
+ </p>
+
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+<em> Want to know more about me? [Click here](https://www.linkedin.com/in/megavath-bharadwaj-3380551ab/) </em>
+<em>
+
+**I am a Computer Science Final Year Student from IIIT Guwahati.**
 - 👋 I’m @Bharadwajrathod
 - 👀 I’m interested in open source projects.
-- 🌱 I’m currently learning React and Node.js.
+- 🌱 I’m currently learning NLP , ML and .
 - ✌  I’m looking to collaborate on projects based on web development.
 - 📫 How to reach me: 
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/megavath-bharadwaj-3380551ab/) .
