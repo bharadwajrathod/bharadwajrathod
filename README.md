@@ -14,12 +14,12 @@
 <em>
   
 **Talking about Personal Stuffs:**
-- 👨🏽‍💻 I’m Currently working as Research Intern at [Jio](https://www.jio.com/)
-- 💼 I’m Currently Pursuing my Bachelor's degree in Computer Science at [Indian Institute Of Information Technology Guwahati](https://iiitg.ac.in/)
+- 👨🏽‍💻 EX-Research Intern at [Jio](https://www.jio.com/) & Currently working as Data-Engineer at [Optum-UHG](https://www.optum.in/)
+- 💼 Pursued my Bachelor's degree in Computer Science at [Indian Institute Of Information Technology Guwahati](https://iiitg.ac.in/)
 - 🤔 My interests are with Web App Development 🖥️, Data Science 📊, Cricket 🏏.
 - 👀 I’m interested in open source projects.
-- 🌱 I’m currently learning NLP & DL .
-- ✌  I’m looking to collaborate on projects based on web development.
+- 🌱 I’m currently Working on Airflow,Data stage & pyspark.
+- ✌  I’m looking to collaborate on projects based on web development , Data oriented & NLP models.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: 
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;email via megavath.rathod@iiitg.ac.in or ping me on [LinkedIn](https://www.linkedin.com/in/megavath-bharadwaj-3380551ab/) to reach me.
